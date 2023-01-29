@@ -1,5 +1,6 @@
 # Firsttimegit
 Creating repo
 
-Hi this vaibhav 
-Passioned towards coding
+Hi this is vaibhav 
+who is Passioned towards learning coding 
+slow but steady.
